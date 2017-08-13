@@ -3,4 +3,4 @@ an artificial line based on a modification of the sabermetric "Dominance Ratio" 
 
 Developed in the Julia programming language with use of Python imports whenever needed
 
-** Rebuild in Python/updated Julia 0.6 asap **
+** Rebuild in Python/Scala asap **
